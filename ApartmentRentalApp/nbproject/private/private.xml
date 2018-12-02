@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Modal/ApartmentDAO.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/AcceptRequest.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/Userapartment.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/MyApartments.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/SearchApartments.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/DataManager.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/Login.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Modal/PermissionDAO.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/LoginValidation.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/ApartmentRequests.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Modal/UserDAO.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/UserApartments.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/upload.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Modal/Permission.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/Apartments.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/RequestServlet.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/delete.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/Requests.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Modal/Apartment.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/UserPage.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/removeApartment.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/src/java/Controller/SignUpValidation.java</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/about.jsp</file>
+            <file>file:/C:/Users/NIKHIL-PC/Documents/NetBeansProjects/ApartmentRentalApp/web/SignUp.jsp</file>
+        </group>
+    </open-files>
+</project-private>

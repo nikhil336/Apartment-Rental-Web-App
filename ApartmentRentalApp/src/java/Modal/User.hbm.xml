@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="Modal.UserDataBase"  table="details">
+        <!--<id name="sno"></id>-->
+        <id name="username"></id>
+        <property name="firstname"></property>
+        <property name="lastname"></property>
+        <property name="password"></property>
+        <property name="mobileno"></property>
+        <property name="dob"></property>
+        <!--<property name="username"></property>-->
+        
+    </class>
+</hibernate-mapping>
